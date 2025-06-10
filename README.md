@@ -1,4 +1,4 @@
-# Rohit-Dbms-Project
+# Rohith-Dbms-Project
 DBMS Mini Project on Event Management System by ROHITH
 =====================================
 🟥 1. DATABASE CREATION (MySQL)
